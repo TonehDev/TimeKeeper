@@ -5,7 +5,7 @@ from time import strftime
 w=Tk()
 w.geometry('740x245')
 w.minsize(750,200)
-w.title("SimpleClock")
+w.title("TimeKeeper")
 
 
 time_a=datetime.today().strftime('%A')
